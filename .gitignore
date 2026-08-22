@@ -1,0 +1,17 @@
+# macOS and editor-local files
+.DS_Store
+*.swp
+*~
+
+# Obsidian machine/session state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Optional UI customizations and downloaded code stay local by default
+.obsidian/plugins/
+.obsidian/themes/
+.obsidian/snippets/
+
+# Obsidian's local trash
+.trash/
